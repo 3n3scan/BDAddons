@@ -3,7 +3,7 @@
 
 ## Info
 - So if you have any suggestions for improvement, bugs or feedback, just let us know.
-- In [`LICENSE`](https://github.com/3n3scan/enos-cloner/blob/main/LICENSE) you will find the license information.
+- In [`LICENSE`](https://github.com/3n3scan/DiscordTools/blob/main/LICENSE) you will find the license information.
 
 ## BetterDiscord Addons
 - My Personal collection of BetterDiscord Themes & Plugins for Discord.
