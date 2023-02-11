@@ -7,6 +7,7 @@
 
 ## BetterDiscord Addons
 - My Personal collection of BetterDiscord Themes & Plugins for Discord.
+- BetterDiscord Donwload link: [Download](https://betterdiscord.app/)
 
 ## Server Cloner
 - A Discord Server Cloner Which Can Clone Any Discord Server In Just Few Minutes. 
