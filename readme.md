@@ -1,10 +1,16 @@
-
-# Eno's Discord Server CLoner
-- A Discord Server Cloner Which Can Clone Any Discord Server In Just Few Minutes. **/** This tool is made for educational purposes only. I am not responsible for any misuse of this tool. **/** This tool is made by [Eno](https://github.com/3n3scan/)
+# Eno's Discord Tools
+- This are made for educational purposes only. I am not responsible for any misuse of these.
 
 ## Info
 - So if you have any suggestions for improvement, bugs or feedback, just let us know.
 - In [`LICENSE`](https://github.com/3n3scan/enos-cloner/blob/main/LICENSE) you will find the license information.
+
+## BetterDiscord Addons
+- My Personal collection of BetterDiscord Themes & Plugins for Discord.
+
+## Server Cloner
+- A Discord Server Cloner Which Can Clone Any Discord Server In Just Few Minutes. 
+- This tool is made by [Eno](https://github.com/3n3scan/)
 
 ## Features
 + Clone Channels
@@ -14,8 +20,8 @@
 + Server Banner / Avatar
 + Server Emojis
 + Server Settings
-- Server Messages
-- Server Members
++ Server Messages
++ Server Members
 
 ## Setup/Installation
 1. Install the Python Packages from the `requirements.txt` file
@@ -23,7 +29,8 @@
 pip install -r requirements.txt
 ```
 2. start the `start.bat` file to start the tool. **/** Or also with your coding software (PyCharm/VS Code) with `py main.py`.
-```bash
+```
+Login Information for the tool:
 Username: root
 Password: root
 ```
