@@ -24,7 +24,7 @@
 + Server Messages
 + Server Members
 
-## Setup/Installation
+## Setup/Installation - Server Cloner
 1. Install the Python Packages from the `requirements.txt` file
 ```bash
 pip install -r requirements.txt
