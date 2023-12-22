@@ -11,7 +11,7 @@
 
 ## Server Cloner
 - A Discord Server Cloner Which Can Clone Any Discord Server In Just Few Minutes. 
-- This tool is made by [Eno](https://github.com/3n3scan/)
+- This tool is made by [3n3scan](https://github.com/3n3scan/)
 
 ## Features
 + Clone Channels
